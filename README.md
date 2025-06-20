@@ -1,4 +1,4 @@
-# ❤️ Heart Failure Clinical Records - Mortality Risk Prediction
+# ❤ Heart Failure Clinical Records - Mortality Risk Prediction
 
 This project aims to build a machine learning-based predictive model using heart failure clinical records to assist in early detection and risk assessment of mortality in patients suffering from heart disease. The dataset used contains real clinical data of patients collected during follow-up medical appointments, including attributes such as age, anaemia status, ejection fraction, serum creatinine, and more.
 
