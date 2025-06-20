@@ -8,7 +8,7 @@ The project focuses on extracting meaningful patterns from the data, dealing wit
 
 ## 📂 Dataset Overview
 
-- **Source:** [UCI Machine Learning Repository – Heart Failure Clinical Records](https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records)
+- **Source:** [UCI Machine Learning Repository – Heart Failure Clinical Records](https://www.kaggle.com/datasets/nimapourmoradi/heart-failure-clinical-records)
 - **Records:** 299 patient records
 - **Features:** 13 clinical attributes
 - **Target Variable:** DEATH_EVENT (1 = died during follow-up, 0 = survived)
